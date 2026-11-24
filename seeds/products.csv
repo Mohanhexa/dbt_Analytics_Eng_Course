@@ -1,0 +1,16 @@
+product_id,product_name,category,brand,unit_price
+P001,Laptop Pro 15,Electronics,Dell,85000
+P002,Wireless Mouse,Electronics,Logitech,1200
+P003,Mechanical Keyboard,Electronics,Keychron,4500
+P004,Office Chair,Furniture,GreenSoul,9500
+P005,Standing Desk,Furniture,Ikea,18000
+P006,Monitor 27inch,Electronics,LG,22000
+P007,USB-C Hub,Accessories,Anker,2500
+P008,Webcam HD,Accessories,Logitech,3500
+P009,Noise Cancelling Headphones,Electronics,Sony,12000
+P010,Tablet Air,Electronics,Samsung,32000
+P011,Smartphone X,Electronics,Apple,75000
+P012,Printer Laser,Electronics,HP,15500
+P013,External SSD 1TB,Accessories,Samsung,9000
+P014,Gaming Chair,Furniture,ASUS,15000
+P015,Router AX3000,Networking,TP-Link,6500
